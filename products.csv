@@ -1,0 +1,601 @@
+product_id,name,category,brand,sku,price,cost,stock_quantity,created_at
+1,Robust scalable customer loyalty,Apparel,"Henry, Roberts and Smith",SKU-00001,364.4,267.83,675,2023-06-19
+2,Object-based multi-tasking encoding,Health & Beauty,Mitchell and Sons,SKU-00002,433.3,250.72,353,2024-02-25
+3,Programmable mission-critical algorithm,Apparel,Ramos-Fuller,SKU-00003,278.2,171.75,955,2025-06-09
+4,Up-sized scalable conglomeration,Apparel,"Ortiz, Brown and Clayton",SKU-00004,435.45,345.01,585,2025-05-08
+5,Managed bi-directional instruction set,Health & Beauty,"Cooper, Cohen and Garrison",SKU-00005,120.61,85.66,325,2025-09-22
+6,Down-sized next generation strategy,Books,Morris PLC,SKU-00006,239.12,183.02,395,2025-05-17
+7,Balanced next generation function,Books,"Velasquez, Vega and Kerr",SKU-00007,397.23,262.49,507,2024-05-08
+8,Fundamental multi-tasking utilization,Electronics,Baker and Sons,SKU-00008,67.49,53.06,890,2023-07-11
+9,Multi-tiered client-driven intranet,Electronics,Barrera-Green,SKU-00009,437.72,252.18,932,2024-11-23
+10,Expanded directional benchmark,Health & Beauty,"Velasquez, Vega and Kerr",SKU-00010,12.6,5.77,76,2023-08-31
+11,Mandatory multi-state attitude,Health & Beauty,Mitchell-Turner,SKU-00011,391.86,198.28,709,2023-06-04
+12,Synchronized zero administration open architecture,Health & Beauty,"Coleman, Hughes and Davis",SKU-00012,326.67,241.97,389,2024-11-05
+13,Object-based impactful definition,Apparel,Mitchell and Sons,SKU-00013,315.27,238.02,893,2024-01-01
+14,Adaptive eco-centric website,Sports & Outdoors,"Brown, David and Fowler",SKU-00014,22.77,9.73,232,2023-04-25
+15,Secured leadingedge synergy,Books,Davis-Martinez,SKU-00015,49.74,39.36,454,2023-12-10
+16,Fundamental maximized interface,Home & Kitchen,"Cooper, Cohen and Garrison",SKU-00016,348.53,265.36,332,2024-04-26
+17,Universal contextually-based throughput,Toys & Games,Schwartz PLC,SKU-00017,32.78,17.81,149,2023-06-02
+18,Innovative impactful pricing structure,Home & Kitchen,Hamilton PLC,SKU-00018,267.93,167.82,174,2024-07-29
+19,Programmable full-range task-force,Home & Kitchen,Mitchell-Turner,SKU-00019,44.09,32.99,699,2023-05-11
+20,Open-source optimizing conglomeration,Home & Kitchen,"Ortiz, Brown and Clayton",SKU-00020,251.35,159.17,472,2023-02-25
+21,Polarized holistic archive,Books,Fowler-Day,SKU-00021,130.72,65.64,920,2024-10-30
+22,Customer-focused dynamic hub,Toys & Games,"Coleman, Hughes and Davis",SKU-00022,235.3,121.19,161,2025-10-17
+23,Switchable client-server product,Electronics,"Henry, Roberts and Smith",SKU-00023,223.66,120.38,306,2025-03-22
+24,Innovative fresh-thinking firmware,Books,Ramos-Fuller,SKU-00024,481.2,325.35,865,2025-08-07
+25,Persevering 4thgeneration structure,Apparel,Mitchell and Sons,SKU-00025,103.61,57.39,109,2025-07-13
+26,Inverse 24hour product,Home & Kitchen,"Brown, David and Fowler",SKU-00026,193.78,105.34,716,2022-12-19
+27,Multi-channeled leadingedge firmware,Apparel,Morris PLC,SKU-00027,15.86,11.61,281,2025-10-09
+28,Managed tertiary moderator,Electronics,"Cooper, Cohen and Garrison",SKU-00028,285.13,192.27,932,2023-01-20
+29,Pre-emptive intangible instruction set,Sports & Outdoors,"Brown, David and Fowler",SKU-00029,373.86,274.09,794,2024-03-13
+30,Public-key logistical model,Toys & Games,"Ortiz, Brown and Clayton",SKU-00030,118.91,85.71,651,2024-02-20
+31,Customizable directional moratorium,Home & Kitchen,"Velasquez, Vega and Kerr",SKU-00031,312.34,209.61,643,2025-09-14
+32,Fully-configurable bottom-line conglomeration,Electronics,"Brown, David and Fowler",SKU-00032,452.18,297.78,807,2024-10-22
+33,Optional 6thgeneration methodology,Health & Beauty,"Velasquez, Vega and Kerr",SKU-00033,21.52,11.75,92,2025-02-23
+34,Visionary disintermediate customer loyalty,Apparel,"Gallagher, Miller and Cortez",SKU-00034,166.73,94.4,135,2024-05-10
+35,Robust executive moratorium,Toys & Games,Barrera-Green,SKU-00035,272.01,214.51,513,2023-08-15
+36,Sharable zero tolerance capacity,Apparel,Mitchell and Sons,SKU-00036,416.08,209.2,990,2023-12-16
+37,Multi-lateral clear-thinking forecast,Toys & Games,Davis-Martinez,SKU-00037,151.1,113.05,479,2025-03-03
+38,Public-key bottom-line info-mediaries,Electronics,Morris PLC,SKU-00038,74.67,58.74,990,2022-12-08
+39,Switchable content-based hierarchy,Toys & Games,Morris PLC,SKU-00039,403.27,220.31,14,2023-12-04
+40,Integrated bi-directional matrix,Apparel,Johnson PLC,SKU-00040,270.6,157.47,598,2024-09-02
+41,Total heuristic function,Health & Beauty,Davis-Martinez,SKU-00041,412.1,319.84,691,2024-08-07
+42,Customer-focused empowering attitude,Home & Kitchen,"Coleman, Hughes and Davis",SKU-00042,238.38,154.43,335,2023-04-23
+43,Stand-alone zero administration paradigm,Sports & Outdoors,Ramos-Fuller,SKU-00043,114.58,48.73,931,2025-08-28
+44,Customer-focused 5thgeneration projection,Books,"Velasquez, Vega and Kerr",SKU-00044,154.58,87.08,46,2023-04-18
+45,Implemented systematic time-frame,Electronics,Davis-Martinez,SKU-00045,155.66,92.94,240,2024-11-01
+46,Face-to-face non-volatile project,Sports & Outdoors,"Coleman, Hughes and Davis",SKU-00046,72.15,41.95,429,2025-09-04
+47,Synergized attitude-oriented product,Sports & Outdoors,Schwartz PLC,SKU-00047,372.42,171.99,670,2023-08-04
+48,Re-engineered motivating projection,Electronics,Johnson PLC,SKU-00048,417.68,269.93,33,2023-11-14
+49,Intuitive multi-state extranet,Books,"Ortiz, Brown and Clayton",SKU-00049,188.41,108.78,875,2024-01-25
+50,Realigned tertiary access,Apparel,"Coleman, Hughes and Davis",SKU-00050,54.18,36.53,923,2025-09-26
+51,Cross-platform client-driven knowledgebase,Books,"Gallagher, Miller and Cortez",SKU-00051,182.54,102.09,991,2024-11-20
+52,Compatible client-driven intranet,Electronics,Brock PLC,SKU-00052,474.76,346.42,678,2024-12-13
+53,Total bi-directional Graphic Interface,Home & Kitchen,Fowler-Day,SKU-00053,322.64,206.12,51,2024-07-04
+54,Stand-alone motivating Graphical User Interface,Toys & Games,"Henry, Roberts and Smith",SKU-00054,170.09,135.31,210,2023-09-12
+55,Robust 24hour parallelism,Electronics,"Henry, Roberts and Smith",SKU-00055,415.76,258.47,221,2023-04-12
+56,Synergized local forecast,Toys & Games,"Velasquez, Vega and Kerr",SKU-00056,435.5,231.44,807,2024-01-09
+57,Pre-emptive non-volatile extranet,Sports & Outdoors,"Velasquez, Vega and Kerr",SKU-00057,6.4,4.76,133,2022-12-05
+58,Progressive 24hour protocol,Sports & Outdoors,Fowler-Day,SKU-00058,129.07,60.64,134,2023-09-08
+59,Assimilated web-enabled monitoring,Electronics,"Henry, Roberts and Smith",SKU-00059,182.33,130.43,331,2025-05-26
+60,Upgradable cohesive concept,Electronics,Schwartz PLC,SKU-00060,91.25,38.41,538,2025-04-11
+61,Sharable 6thgeneration initiative,Electronics,Cabrera-Harris,SKU-00061,374.1,220.91,525,2023-12-25
+62,Cross-platform real-time process improvement,Sports & Outdoors,Mitchell-Turner,SKU-00062,58.98,35.48,44,2024-07-10
+63,Inverse next generation synergy,Books,Barrera-Green,SKU-00063,392.7,293.27,308,2024-02-15
+64,Automated coherent solution,Health & Beauty,Mitchell and Sons,SKU-00064,323.45,133.41,867,2025-04-09
+65,Fully-configurable maximized instruction set,Health & Beauty,Ramos-Fuller,SKU-00065,216.01,95.73,75,2023-12-10
+66,Inverse clear-thinking instruction set,Electronics,"Velasquez, Vega and Kerr",SKU-00066,164.45,75.54,281,2025-08-04
+67,Intuitive next generation knowledge user,Sports & Outdoors,Baker and Sons,SKU-00067,318.37,197.18,390,2023-06-03
+68,Progressive 24/7 concept,Sports & Outdoors,Mitchell-Turner,SKU-00068,267.63,155.62,440,2023-11-18
+69,Reactive human-resource functionalities,Electronics,"Coleman, Hughes and Davis",SKU-00069,397.58,177.23,738,2024-08-27
+70,Enhanced incremental analyzer,Toys & Games,"Ortiz, Brown and Clayton",SKU-00070,111.44,64.7,423,2022-12-04
+71,Reactive 24/7 hierarchy,Apparel,Davis-Martinez,SKU-00071,414.57,231.95,320,2025-05-02
+72,Quality-focused 4thgeneration secured line,Health & Beauty,"Velasquez, Vega and Kerr",SKU-00072,159.7,80.16,703,2023-05-19
+73,Progressive zero administration neural-net,Health & Beauty,Brock PLC,SKU-00073,38.23,28.01,442,2025-01-16
+74,Advanced 24hour standardization,Electronics,"Velasquez, Vega and Kerr",SKU-00074,373.57,205.11,569,2023-12-03
+75,Adaptive 24hour groupware,Electronics,Baker and Sons,SKU-00075,295.3,184.45,686,2023-09-13
+76,Persevering national collaboration,Electronics,Schwartz PLC,SKU-00076,208.35,156.15,888,2025-03-11
+77,Object-based multi-tasking support,Books,"Brown, David and Fowler",SKU-00077,30.47,15.69,360,2024-11-27
+78,Self-enabling cohesive toolset,Electronics,Mitchell and Sons,SKU-00078,291.07,141.2,229,2025-08-28
+79,Self-enabling coherent application,Toys & Games,Cabrera-Harris,SKU-00079,58.57,43.23,117,2023-09-06
+80,Advanced logistical archive,Toys & Games,Schwartz PLC,SKU-00080,142.89,70.08,865,2023-02-17
+81,Quality-focused asymmetric task-force,Sports & Outdoors,Mitchell-Turner,SKU-00081,487.4,354.52,691,2024-09-02
+82,Re-engineered user-facing concept,Books,Johnson PLC,SKU-00082,280.59,180.59,29,2023-07-30
+83,Expanded tertiary parallelism,Home & Kitchen,Baker and Sons,SKU-00083,140.27,98.89,359,2024-11-09
+84,Multi-tiered secondary infrastructure,Electronics,Morris PLC,SKU-00084,94.8,43.35,71,2023-07-31
+85,Customizable high-level flexibility,Home & Kitchen,Brock PLC,SKU-00085,371.78,293.23,764,2023-03-01
+86,Monitored tangible architecture,Sports & Outdoors,Baker and Sons,SKU-00086,111.49,63.32,161,2025-04-30
+87,Realigned analyzing knowledge user,Apparel,"Henry, Roberts and Smith",SKU-00087,159.26,84.37,610,2022-11-18
+88,Vision-oriented systematic capacity,Electronics,Mitchell-Turner,SKU-00088,442.25,204.42,50,2024-10-19
+89,Upgradable client-driven process improvement,Books,Schwartz PLC,SKU-00089,45.38,26.2,497,2025-09-09
+90,Down-sized system-worthy policy,Sports & Outdoors,Barrera-Green,SKU-00090,223.81,113.98,116,2024-03-06
+91,Distributed stable open architecture,Apparel,"Henry, Roberts and Smith",SKU-00091,217.81,111.8,498,2024-08-10
+92,Extended full-range monitoring,Sports & Outdoors,Morris PLC,SKU-00092,335.23,140.18,613,2023-11-18
+93,Integrated optimal concept,Electronics,"Gallagher, Miller and Cortez",SKU-00093,8.81,4.59,785,2025-11-10
+94,Networked dedicated open architecture,Home & Kitchen,Davis-Martinez,SKU-00094,383.26,197.68,7,2025-05-07
+95,Visionary scalable moratorium,Health & Beauty,Morris PLC,SKU-00095,374.77,176.25,545,2024-12-10
+96,Stand-alone solution-oriented flexibility,Books,Cabrera-Harris,SKU-00096,118.9,74.13,73,2025-06-27
+97,Inverse grid-enabled portal,Health & Beauty,Fowler-Day,SKU-00097,431.57,179.93,470,2023-03-31
+98,Business-focused reciprocal circuit,Electronics,"Henry, Roberts and Smith",SKU-00098,431.74,272.13,414,2023-11-05
+99,Front-line high-level hierarchy,Books,Morris PLC,SKU-00099,321.87,166.02,21,2025-02-05
+100,Profit-focused grid-enabled knowledgebase,Apparel,Ramos-Fuller,SKU-00100,90.08,70.18,851,2023-07-02
+101,Profound solution-oriented definition,Books,Davis-Martinez,SKU-00101,460.29,200.34,249,2023-12-26
+102,Open-architected solution-oriented data-warehouse,Health & Beauty,Morris PLC,SKU-00102,296.49,180.74,891,2025-08-16
+103,Programmable real-time attitude,Apparel,Hamilton PLC,SKU-00103,374.17,182.83,78,2024-09-19
+104,Configurable stable policy,Sports & Outdoors,"Gallagher, Miller and Cortez",SKU-00104,318.45,194.97,927,2022-12-25
+105,Monitored fresh-thinking open architecture,Toys & Games,"Velasquez, Vega and Kerr",SKU-00105,177.94,122.95,241,2024-12-11
+106,Multi-lateral demand-driven adapter,Electronics,Mitchell-Turner,SKU-00106,77.49,37.11,156,2025-11-02
+107,Sharable coherent parallelism,Toys & Games,Mitchell and Sons,SKU-00107,380.78,163.79,475,2024-08-10
+108,Cross-group encompassing success,Toys & Games,"Henry, Roberts and Smith",SKU-00108,284.05,179.46,658,2025-05-11
+109,Right-sized static task-force,Books,Baker and Sons,SKU-00109,493.33,261.11,154,2023-02-10
+110,Synergistic reciprocal framework,Health & Beauty,"Brown, David and Fowler",SKU-00110,38.8,22.38,815,2023-02-22
+111,Optimized maximized open system,Apparel,Brock PLC,SKU-00111,297.75,161.02,317,2024-04-06
+112,Self-enabling stable complexity,Health & Beauty,"Brown, David and Fowler",SKU-00112,228.7,96.68,78,2025-08-22
+113,Balanced contextually-based Local Area Network,Books,Mitchell-Turner,SKU-00113,432.8,321.19,608,2025-05-27
+114,Vision-oriented multimedia pricing structure,Sports & Outdoors,"Cooper, Cohen and Garrison",SKU-00114,195.32,123.47,460,2025-10-08
+115,Upgradable system-worthy attitude,Toys & Games,Mitchell-Turner,SKU-00115,287.97,136.87,487,2024-01-14
+116,Managed empowering moratorium,Sports & Outdoors,Davis-Martinez,SKU-00116,79.68,33.84,830,2023-03-19
+117,Compatible next generation pricing structure,Toys & Games,Barrera-Green,SKU-00117,175.0,120.0,661,2023-05-20
+118,Phased responsive complexity,Home & Kitchen,Ramos-Fuller,SKU-00118,24.38,16.65,536,2025-01-19
+119,Grass-roots global toolset,Sports & Outdoors,"Brown, David and Fowler",SKU-00119,306.85,167.4,396,2025-01-23
+120,Innovative national support,Health & Beauty,"Cooper, Cohen and Garrison",SKU-00120,388.36,260.81,808,2024-12-04
+121,Future-proofed optimizing extranet,Books,Davis-Martinez,SKU-00121,325.42,138.75,571,2023-01-19
+122,Balanced object-oriented conglomeration,Books,Mitchell-Turner,SKU-00122,196.35,98.33,894,2024-08-28
+123,Enterprise-wide neutral time-frame,Home & Kitchen,"Velasquez, Vega and Kerr",SKU-00123,170.01,107.63,938,2025-01-24
+124,Object-based grid-enabled support,Apparel,Morris PLC,SKU-00124,158.56,105.03,132,2025-03-01
+125,Ameliorated modular protocol,Sports & Outdoors,"Coleman, Hughes and Davis",SKU-00125,355.87,154.41,385,2023-08-29
+126,Ameliorated analyzing open architecture,Books,Barrera-Green,SKU-00126,396.87,287.84,95,2025-07-31
+127,Switchable 3rdgeneration help-desk,Books,Fowler-Day,SKU-00127,336.88,203.27,371,2024-10-23
+128,Ameliorated attitude-oriented open system,Apparel,Mitchell and Sons,SKU-00128,94.23,45.77,196,2024-12-26
+129,Horizontal demand-driven task-force,Home & Kitchen,"Brown, David and Fowler",SKU-00129,499.99,230.98,864,2025-08-31
+130,Synchronized fresh-thinking knowledge user,Toys & Games,Barrera-Green,SKU-00130,55.06,39.0,38,2024-03-27
+131,Synergized client-server protocol,Books,"Velasquez, Vega and Kerr",SKU-00131,171.7,121.31,611,2025-06-29
+132,De-engineered full-range hardware,Health & Beauty,Mitchell-Turner,SKU-00132,81.36,38.43,828,2025-11-01
+133,Virtual holistic productivity,Home & Kitchen,Cabrera-Harris,SKU-00133,361.99,151.12,692,2024-08-30
+134,Profit-focused 4thgeneration standardization,Books,"Brown, David and Fowler",SKU-00134,122.58,70.81,770,2025-10-17
+135,Reactive encompassing interface,Books,"Ortiz, Brown and Clayton",SKU-00135,392.98,193.98,316,2025-06-02
+136,Upgradable 24/7 ability,Toys & Games,"Gallagher, Miller and Cortez",SKU-00136,393.26,299.5,376,2023-04-24
+137,Mandatory system-worthy projection,Books,Ramos-Fuller,SKU-00137,473.83,376.11,787,2025-04-05
+138,Customizable clear-thinking time-frame,Apparel,Schwartz PLC,SKU-00138,390.17,234.56,989,2023-10-07
+139,Multi-tiered coherent flexibility,Home & Kitchen,"Velasquez, Vega and Kerr",SKU-00139,409.36,294.95,893,2025-11-11
+140,Enterprise-wide explicit process improvement,Apparel,Cabrera-Harris,SKU-00140,30.83,18.26,567,2025-08-12
+141,Synergized executive toolset,Electronics,Davis-Martinez,SKU-00141,357.14,216.56,291,2024-12-04
+142,Synergistic 5thgeneration ability,Electronics,Barrera-Green,SKU-00142,382.74,194.86,150,2023-06-12
+143,Monitored bifurcated orchestration,Toys & Games,"Ortiz, Brown and Clayton",SKU-00143,221.55,172.49,836,2025-10-24
+144,Balanced hybrid projection,Health & Beauty,Schwartz PLC,SKU-00144,442.89,341.99,54,2024-10-10
+145,Devolved fault-tolerant solution,Health & Beauty,Brock PLC,SKU-00145,253.49,125.3,383,2024-01-06
+146,Vision-oriented interactive application,Home & Kitchen,Baker and Sons,SKU-00146,18.95,14.64,810,2025-07-06
+147,Multi-lateral methodical solution,Home & Kitchen,Mitchell and Sons,SKU-00147,73.11,37.63,712,2024-12-05
+148,Diverse executive monitoring,Toys & Games,Ramos-Fuller,SKU-00148,73.7,50.28,630,2024-11-27
+149,Pre-emptive executive knowledgebase,Electronics,"Gallagher, Miller and Cortez",SKU-00149,453.4,184.81,855,2024-07-06
+150,Fully-configurable actuating software,Home & Kitchen,Barrera-Green,SKU-00150,276.66,191.14,433,2025-02-16
+151,Extended full-range intranet,Electronics,Davis-Martinez,SKU-00151,389.21,192.68,48,2023-06-07
+152,Synchronized national portal,Home & Kitchen,Ramos-Fuller,SKU-00152,212.81,152.7,64,2022-12-30
+153,Secured bandwidth-monitored toolset,Electronics,"Coleman, Hughes and Davis",SKU-00153,419.16,251.47,16,2025-09-26
+154,Centralized 5thgeneration structure,Books,"Velasquez, Vega and Kerr",SKU-00154,260.11,129.22,298,2025-10-22
+155,Operative dynamic flexibility,Health & Beauty,"Henry, Roberts and Smith",SKU-00155,5.77,3.12,426,2025-08-05
+156,Persevering fault-tolerant product,Home & Kitchen,Cabrera-Harris,SKU-00156,333.86,144.98,69,2025-09-27
+157,Configurable motivating access,Sports & Outdoors,Barrera-Green,SKU-00157,274.32,196.02,567,2023-12-29
+158,Vision-oriented client-driven analyzer,Electronics,Morris PLC,SKU-00158,198.27,116.59,382,2025-10-02
+159,Distributed cohesive core,Apparel,Brock PLC,SKU-00159,374.92,203.52,353,2022-12-07
+160,Intuitive zero-defect open system,Home & Kitchen,"Henry, Roberts and Smith",SKU-00160,367.81,239.56,752,2024-11-23
+161,Monitored logistical encryption,Toys & Games,"Coleman, Hughes and Davis",SKU-00161,169.6,70.85,346,2023-10-13
+162,Vision-oriented intermediate open architecture,Toys & Games,Ramos-Fuller,SKU-00162,323.18,236.62,712,2025-08-23
+163,Versatile contextually-based middleware,Health & Beauty,Brock PLC,SKU-00163,317.71,230.21,733,2024-11-28
+164,Multi-tiered grid-enabled knowledge user,Toys & Games,"Gallagher, Miller and Cortez",SKU-00164,472.08,195.82,44,2024-05-26
+165,Upgradable heuristic hardware,Toys & Games,"Brown, David and Fowler",SKU-00165,103.74,43.23,527,2023-06-17
+166,Managed multimedia installation,Health & Beauty,Johnson PLC,SKU-00166,494.62,305.29,37,2025-03-28
+167,Inverse human-resource moratorium,Toys & Games,"Cooper, Cohen and Garrison",SKU-00167,325.22,167.31,886,2024-05-26
+168,Assimilated uniform interface,Books,Cabrera-Harris,SKU-00168,169.3,76.15,447,2024-07-03
+169,Future-proofed motivating matrices,Health & Beauty,Morris PLC,SKU-00169,372.94,282.63,347,2025-02-06
+170,Down-sized stable initiative,Home & Kitchen,Barrera-Green,SKU-00170,250.62,150.12,273,2024-03-09
+171,Profound methodical budgetary management,Toys & Games,Schwartz PLC,SKU-00171,45.89,26.15,616,2023-10-28
+172,Balanced actuating application,Toys & Games,Davis-Martinez,SKU-00172,94.33,48.82,81,2023-08-14
+173,Mandatory heuristic firmware,Apparel,Mitchell-Turner,SKU-00173,332.16,173.59,734,2024-08-04
+174,Stand-alone empowering Graphical User Interface,Health & Beauty,Ramos-Fuller,SKU-00174,87.49,50.53,43,2023-12-06
+175,Front-line executive intranet,Books,Schwartz PLC,SKU-00175,435.67,235.71,281,2025-07-06
+176,Profound grid-enabled challenge,Books,Brock PLC,SKU-00176,490.11,381.87,687,2025-05-10
+177,Fundamental scalable product,Books,Hamilton PLC,SKU-00177,206.07,124.72,975,2025-01-12
+178,Horizontal executive knowledgebase,Electronics,Ramos-Fuller,SKU-00178,75.68,48.66,35,2022-11-23
+179,Horizontal bottom-line solution,Home & Kitchen,Cabrera-Harris,SKU-00179,38.28,27.23,370,2025-11-04
+180,Integrated holistic alliance,Health & Beauty,"Velasquez, Vega and Kerr",SKU-00180,474.99,196.15,695,2024-04-07
+181,Synchronized value-added info-mediaries,Health & Beauty,Brock PLC,SKU-00181,474.67,260.5,587,2023-10-09
+182,Virtual dedicated matrices,Home & Kitchen,Johnson PLC,SKU-00182,267.08,149.35,255,2023-01-15
+183,Optimized real-time groupware,Electronics,Barrera-Green,SKU-00183,17.83,8.46,396,2025-08-17
+184,Customer-focused asymmetric model,Sports & Outdoors,Ramos-Fuller,SKU-00184,63.29,44.94,219,2023-04-25
+185,Reverse-engineered hybrid project,Sports & Outdoors,Mitchell and Sons,SKU-00185,146.36,112.2,204,2023-05-20
+186,Exclusive national project,Electronics,Hamilton PLC,SKU-00186,72.19,31.01,920,2024-09-28
+187,Multi-lateral solution-oriented pricing structure,Books,Baker and Sons,SKU-00187,225.33,98.04,683,2024-05-07
+188,Inverse non-volatile focus group,Apparel,"Brown, David and Fowler",SKU-00188,356.22,220.86,912,2023-07-26
+189,Enhanced object-oriented moderator,Apparel,Hamilton PLC,SKU-00189,426.42,291.98,812,2023-04-23
+190,Synchronized content-based encryption,Apparel,"Gallagher, Miller and Cortez",SKU-00190,256.83,115.2,811,2025-08-16
+191,Distributed executive archive,Home & Kitchen,Cabrera-Harris,SKU-00191,122.18,73.02,567,2025-06-27
+192,Synchronized reciprocal knowledgebase,Sports & Outdoors,"Coleman, Hughes and Davis",SKU-00192,187.61,135.35,132,2024-10-31
+193,Up-sized background artificial intelligence,Sports & Outdoors,Morris PLC,SKU-00193,442.7,188.72,734,2025-01-29
+194,Adaptive bi-directional structure,Books,Schwartz PLC,SKU-00194,241.94,136.53,843,2025-10-26
+195,Multi-tiered leadingedge standardization,Sports & Outdoors,Brock PLC,SKU-00195,41.51,32.75,460,2024-10-29
+196,Implemented content-based implementation,Health & Beauty,"Coleman, Hughes and Davis",SKU-00196,341.65,183.74,655,2023-02-02
+197,Fundamental needs-based process improvement,Sports & Outdoors,Schwartz PLC,SKU-00197,95.07,74.77,514,2022-11-17
+198,Reverse-engineered multi-state groupware,Toys & Games,"Velasquez, Vega and Kerr",SKU-00198,32.43,14.58,311,2025-06-08
+199,Distributed leadingedge attitude,Home & Kitchen,"Ortiz, Brown and Clayton",SKU-00199,85.17,65.91,354,2023-12-20
+200,Face-to-face systemic instruction set,Sports & Outdoors,Johnson PLC,SKU-00200,447.99,330.78,201,2025-04-22
+201,Visionary encompassing leverage,Books,"Brown, David and Fowler",SKU-00201,478.39,243.87,629,2023-12-11
+202,Robust demand-driven productivity,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00202,51.25,33.64,964,2024-03-02
+203,Vision-oriented mission-critical info-mediaries,Sports & Outdoors,Mitchell-Turner,SKU-00203,81.33,53.96,345,2025-11-01
+204,Programmable national paradigm,Toys & Games,Fowler-Day,SKU-00204,462.35,192.56,83,2023-10-09
+205,Universal motivating instruction set,Electronics,Johnson PLC,SKU-00205,474.53,336.16,666,2023-03-20
+206,Object-based responsive support,Home & Kitchen,Fowler-Day,SKU-00206,384.64,217.95,509,2023-04-03
+207,Total multi-tasking secured line,Books,"Brown, David and Fowler",SKU-00207,275.06,180.65,494,2024-11-29
+208,Persevering human-resource function,Home & Kitchen,"Brown, David and Fowler",SKU-00208,403.32,271.84,464,2024-03-19
+209,Progressive systematic approach,Electronics,Schwartz PLC,SKU-00209,345.86,160.21,495,2025-03-01
+210,Implemented content-based artificial intelligence,Health & Beauty,Baker and Sons,SKU-00210,105.99,68.12,882,2025-07-01
+211,Operative scalable functionalities,Books,Cabrera-Harris,SKU-00211,163.06,129.67,998,2023-07-24
+212,Up-sized asymmetric solution,Health & Beauty,"Coleman, Hughes and Davis",SKU-00212,69.73,38.23,108,2024-10-08
+213,Re-contextualized user-facing alliance,Apparel,Ramos-Fuller,SKU-00213,124.66,55.97,253,2025-08-04
+214,Assimilated fresh-thinking core,Home & Kitchen,Morris PLC,SKU-00214,52.92,27.31,884,2025-09-09
+215,Cloned client-driven instruction set,Sports & Outdoors,Hamilton PLC,SKU-00215,211.98,166.42,833,2022-12-14
+216,Multi-layered foreground standardization,Apparel,"Gallagher, Miller and Cortez",SKU-00216,467.21,321.65,781,2024-12-14
+217,Innovative analyzing challenge,Home & Kitchen,Mitchell and Sons,SKU-00217,251.64,152.47,900,2025-07-16
+218,Public-key web-enabled framework,Apparel,Morris PLC,SKU-00218,251.2,109.53,517,2024-04-18
+219,Secured holistic monitoring,Health & Beauty,Cabrera-Harris,SKU-00219,483.51,235.01,49,2024-09-30
+220,Optimized object-oriented Graphic Interface,Electronics,Mitchell and Sons,SKU-00220,144.27,92.19,292,2024-06-17
+221,Re-contextualized bandwidth-monitored productivity,Sports & Outdoors,"Velasquez, Vega and Kerr",SKU-00221,9.05,4.01,903,2023-08-05
+222,Operative multi-state array,Apparel,Cabrera-Harris,SKU-00222,365.12,257.61,46,2023-11-01
+223,Automated modular model,Health & Beauty,Cabrera-Harris,SKU-00223,30.32,18.94,566,2023-11-24
+224,Organized demand-driven benchmark,Apparel,"Coleman, Hughes and Davis",SKU-00224,41.4,24.91,286,2025-01-30
+225,Team-oriented system-worthy encoding,Toys & Games,Davis-Martinez,SKU-00225,494.6,332.45,131,2024-05-08
+226,Reduced fault-tolerant benchmark,Electronics,Baker and Sons,SKU-00226,199.98,143.58,571,2023-08-06
+227,User-centric disintermediate task-force,Apparel,Barrera-Green,SKU-00227,378.71,181.64,411,2023-12-25
+228,Inverse optimal structure,Sports & Outdoors,Baker and Sons,SKU-00228,24.93,10.36,823,2023-08-08
+229,Exclusive context-sensitive workforce,Health & Beauty,Barrera-Green,SKU-00229,262.07,120.44,143,2024-06-10
+230,Team-oriented multi-state approach,Apparel,Morris PLC,SKU-00230,466.03,245.79,631,2023-08-22
+231,Horizontal grid-enabled functionalities,Books,Barrera-Green,SKU-00231,422.09,269.08,848,2024-12-29
+232,Compatible bi-directional throughput,Sports & Outdoors,"Brown, David and Fowler",SKU-00232,268.51,183.53,486,2024-07-01
+233,Enhanced tangible Local Area Network,Toys & Games,Davis-Martinez,SKU-00233,13.24,7.05,426,2024-01-07
+234,Visionary demand-driven groupware,Sports & Outdoors,Fowler-Day,SKU-00234,157.3,119.47,611,2023-04-22
+235,Horizontal radical capacity,Health & Beauty,"Henry, Roberts and Smith",SKU-00235,136.44,90.36,591,2025-01-20
+236,Open-source dedicated challenge,Home & Kitchen,Hamilton PLC,SKU-00236,362.09,229.35,536,2024-12-23
+237,Total analyzing collaboration,Books,Morris PLC,SKU-00237,361.99,256.96,151,2023-09-29
+238,Cross-platform maximized extranet,Toys & Games,Davis-Martinez,SKU-00238,341.96,141.1,195,2025-07-25
+239,Automated clear-thinking moderator,Electronics,Schwartz PLC,SKU-00239,223.31,126.73,707,2023-03-09
+240,Balanced homogeneous ability,Home & Kitchen,Mitchell and Sons,SKU-00240,208.14,147.78,893,2025-07-21
+241,Pre-emptive human-resource emulation,Toys & Games,"Velasquez, Vega and Kerr",SKU-00241,369.24,156.89,531,2024-02-17
+242,Grass-roots demand-driven database,Home & Kitchen,Mitchell and Sons,SKU-00242,282.64,225.9,538,2024-01-22
+243,Synergized intangible ability,Health & Beauty,"Coleman, Hughes and Davis",SKU-00243,160.31,75.23,350,2023-08-22
+244,Streamlined value-added implementation,Sports & Outdoors,Johnson PLC,SKU-00244,180.37,127.85,624,2023-10-03
+245,Fully-configurable uniform hierarchy,Health & Beauty,"Coleman, Hughes and Davis",SKU-00245,100.17,49.95,305,2024-07-24
+246,Grass-roots asynchronous strategy,Home & Kitchen,"Brown, David and Fowler",SKU-00246,471.04,373.49,721,2024-08-01
+247,Sharable context-sensitive parallelism,Home & Kitchen,Mitchell and Sons,SKU-00247,346.67,206.48,357,2025-03-13
+248,Switchable modular alliance,Sports & Outdoors,Johnson PLC,SKU-00248,467.18,335.51,294,2023-08-06
+249,Managed coherent attitude,Electronics,Morris PLC,SKU-00249,288.87,178.31,838,2024-05-26
+250,Up-sized uniform array,Apparel,"Brown, David and Fowler",SKU-00250,477.53,344.7,43,2024-01-05
+251,Synergistic scalable superstructure,Apparel,Ramos-Fuller,SKU-00251,477.88,206.26,671,2023-11-02
+252,Monitored bandwidth-monitored leverage,Apparel,"Coleman, Hughes and Davis",SKU-00252,374.93,182.06,277,2023-06-05
+253,Streamlined dedicated secured line,Sports & Outdoors,Mitchell-Turner,SKU-00253,349.6,159.04,758,2024-06-28
+254,Profit-focused high-level analyzer,Sports & Outdoors,Barrera-Green,SKU-00254,123.44,51.88,231,2023-12-27
+255,Upgradable value-added utilization,Books,Baker and Sons,SKU-00255,120.25,52.92,734,2025-09-02
+256,Integrated national hierarchy,Health & Beauty,Fowler-Day,SKU-00256,54.77,38.79,987,2023-08-04
+257,Networked actuating productivity,Sports & Outdoors,Mitchell and Sons,SKU-00257,489.07,226.53,488,2023-06-22
+258,Up-sized dynamic groupware,Books,Baker and Sons,SKU-00258,103.73,81.49,292,2024-02-03
+259,Streamlined methodical collaboration,Books,"Henry, Roberts and Smith",SKU-00259,34.29,24.26,237,2023-08-02
+260,Function-based 5thgeneration functionalities,Sports & Outdoors,"Cooper, Cohen and Garrison",SKU-00260,370.65,274.33,935,2024-05-26
+261,Front-line 6thgeneration task-force,Home & Kitchen,"Cooper, Cohen and Garrison",SKU-00261,211.85,155.72,856,2024-08-05
+262,Compatible bifurcated definition,Health & Beauty,"Brown, David and Fowler",SKU-00262,395.04,187.46,897,2025-06-22
+263,Ameliorated 24hour flexibility,Electronics,Davis-Martinez,SKU-00263,9.59,6.01,950,2024-06-03
+264,Streamlined multi-tasking portal,Apparel,"Coleman, Hughes and Davis",SKU-00264,145.86,116.05,536,2023-06-12
+265,Phased high-level productivity,Health & Beauty,Barrera-Green,SKU-00265,445.18,201.97,479,2023-07-28
+266,Exclusive encompassing application,Apparel,Hamilton PLC,SKU-00266,100.44,44.7,748,2025-01-08
+267,Pre-emptive 5thgeneration system engine,Health & Beauty,Fowler-Day,SKU-00267,325.9,224.04,754,2024-06-17
+268,Operative next generation utilization,Apparel,"Gallagher, Miller and Cortez",SKU-00268,396.43,248.61,179,2025-09-11
+269,Face-to-face directional groupware,Sports & Outdoors,Schwartz PLC,SKU-00269,428.79,325.37,527,2024-06-04
+270,Multi-channeled impactful encoding,Apparel,Hamilton PLC,SKU-00270,47.94,32.01,143,2025-01-12
+271,Multi-layered optimizing open architecture,Health & Beauty,Johnson PLC,SKU-00271,165.18,82.46,392,2023-02-20
+272,Progressive zero administration collaboration,Home & Kitchen,Baker and Sons,SKU-00272,226.13,114.6,309,2025-03-27
+273,Fundamental demand-driven pricing structure,Sports & Outdoors,Cabrera-Harris,SKU-00273,362.83,146.79,709,2025-04-07
+274,Vision-oriented leadingedge framework,Home & Kitchen,"Brown, David and Fowler",SKU-00274,35.75,15.99,163,2025-02-14
+275,Networked optimal open architecture,Health & Beauty,"Brown, David and Fowler",SKU-00275,344.61,265.09,706,2023-01-18
+276,Balanced grid-enabled structure,Electronics,Cabrera-Harris,SKU-00276,321.16,249.3,629,2024-05-25
+277,Pre-emptive transitional database,Home & Kitchen,"Velasquez, Vega and Kerr",SKU-00277,113.47,51.45,465,2023-09-24
+278,Progressive 24hour knowledgebase,Books,"Coleman, Hughes and Davis",SKU-00278,494.47,271.69,934,2025-07-09
+279,User-centric clear-thinking initiative,Health & Beauty,"Gallagher, Miller and Cortez",SKU-00279,379.89,273.82,780,2025-07-19
+280,Networked 24hour orchestration,Home & Kitchen,Brock PLC,SKU-00280,341.77,218.16,538,2025-09-25
+281,Horizontal 24/7 framework,Health & Beauty,"Henry, Roberts and Smith",SKU-00281,266.45,145.14,114,2023-12-10
+282,Persevering holistic algorithm,Electronics,"Gallagher, Miller and Cortez",SKU-00282,415.24,316.06,586,2023-04-22
+283,Persevering foreground access,Sports & Outdoors,Barrera-Green,SKU-00283,79.18,42.06,452,2024-04-14
+284,Open-source systematic infrastructure,Electronics,Mitchell and Sons,SKU-00284,341.75,234.7,93,2024-05-06
+285,Inverse multi-state policy,Sports & Outdoors,"Velasquez, Vega and Kerr",SKU-00285,225.51,95.22,525,2025-06-21
+286,Sharable value-added alliance,Health & Beauty,Ramos-Fuller,SKU-00286,231.12,97.79,688,2025-08-12
+287,Object-based fresh-thinking monitoring,Toys & Games,Johnson PLC,SKU-00287,157.54,64.39,836,2024-07-22
+288,Reverse-engineered modular utilization,Electronics,"Cooper, Cohen and Garrison",SKU-00288,374.17,236.22,433,2023-06-08
+289,Diverse dedicated concept,Apparel,"Cooper, Cohen and Garrison",SKU-00289,351.69,216.8,957,2024-02-06
+290,Enterprise-wide 6thgeneration extranet,Electronics,"Brown, David and Fowler",SKU-00290,493.14,290.37,418,2023-11-22
+291,Ameliorated analyzing initiative,Home & Kitchen,Schwartz PLC,SKU-00291,385.64,272.39,383,2023-11-20
+292,Team-oriented asymmetric orchestration,Health & Beauty,Morris PLC,SKU-00292,227.03,174.1,384,2023-04-26
+293,Automated interactive open system,Electronics,"Coleman, Hughes and Davis",SKU-00293,342.95,227.96,136,2024-11-12
+294,Cross-platform user-facing encryption,Books,"Coleman, Hughes and Davis",SKU-00294,430.84,192.78,402,2024-06-29
+295,Virtual disintermediate Graphical User Interface,Sports & Outdoors,Fowler-Day,SKU-00295,68.04,53.85,774,2025-05-21
+296,Configurable well-modulated secured line,Electronics,"Coleman, Hughes and Davis",SKU-00296,489.35,286.37,434,2023-04-04
+297,Innovative transitional circuit,Sports & Outdoors,Ramos-Fuller,SKU-00297,192.74,94.8,354,2023-01-29
+298,Distributed neutral infrastructure,Home & Kitchen,Davis-Martinez,SKU-00298,141.45,109.62,32,2023-05-02
+299,Devolved client-server data-warehouse,Toys & Games,Fowler-Day,SKU-00299,331.8,214.33,246,2023-07-17
+300,Reactive incremental service-desk,Home & Kitchen,Ramos-Fuller,SKU-00300,38.31,24.43,612,2023-05-20
+301,Future-proofed 24hour structure,Books,"Cooper, Cohen and Garrison",SKU-00301,353.13,148.13,411,2023-06-06
+302,Sharable executive groupware,Health & Beauty,"Cooper, Cohen and Garrison",SKU-00302,121.0,58.92,143,2024-02-19
+303,Devolved client-server firmware,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00303,496.77,245.24,326,2025-05-25
+304,Distributed composite forecast,Sports & Outdoors,Baker and Sons,SKU-00304,300.97,201.35,242,2023-11-21
+305,Ameliorated coherent emulation,Apparel,Barrera-Green,SKU-00305,438.75,348.49,226,2025-10-22
+306,De-engineered zero-defect standardization,Health & Beauty,"Henry, Roberts and Smith",SKU-00306,153.75,65.25,900,2023-02-08
+307,Advanced 4thgeneration attitude,Books,Schwartz PLC,SKU-00307,456.23,296.73,569,2023-09-06
+308,De-engineered local moderator,Health & Beauty,Morris PLC,SKU-00308,28.21,15.17,804,2025-06-08
+309,Down-sized needs-based protocol,Sports & Outdoors,"Velasquez, Vega and Kerr",SKU-00309,162.77,92.21,307,2025-09-23
+310,Diverse empowering protocol,Health & Beauty,"Ortiz, Brown and Clayton",SKU-00310,96.02,59.07,869,2023-11-15
+311,Managed analyzing project,Home & Kitchen,Ramos-Fuller,SKU-00311,153.86,105.09,936,2025-05-12
+312,Pre-emptive non-volatile attitude,Electronics,"Coleman, Hughes and Davis",SKU-00312,283.38,223.05,542,2023-11-11
+313,Managed discrete task-force,Home & Kitchen,Baker and Sons,SKU-00313,197.27,99.03,662,2023-07-23
+314,Robust fresh-thinking implementation,Electronics,Brock PLC,SKU-00314,461.5,340.98,548,2023-05-14
+315,Sharable mobile installation,Books,Morris PLC,SKU-00315,415.56,174.79,689,2023-08-26
+316,Reverse-engineered even-keeled support,Sports & Outdoors,"Gallagher, Miller and Cortez",SKU-00316,303.45,227.42,823,2025-10-30
+317,Programmable even-keeled installation,Toys & Games,"Gallagher, Miller and Cortez",SKU-00317,295.85,197.8,490,2024-12-11
+318,Multi-tiered executive approach,Home & Kitchen,Fowler-Day,SKU-00318,435.39,232.14,216,2025-02-25
+319,Versatile radical knowledgebase,Home & Kitchen,Mitchell and Sons,SKU-00319,481.23,215.07,936,2024-10-26
+320,Reduced high-level data-warehouse,Home & Kitchen,Morris PLC,SKU-00320,349.34,238.08,937,2024-06-20
+321,Cloned even-keeled ability,Home & Kitchen,Morris PLC,SKU-00321,278.28,197.64,477,2025-03-20
+322,Ergonomic 24hour project,Sports & Outdoors,Cabrera-Harris,SKU-00322,326.12,170.68,525,2024-11-05
+323,Balanced radical application,Health & Beauty,Mitchell and Sons,SKU-00323,235.67,169.95,779,2024-07-15
+324,Fully-configurable disintermediate implementation,Toys & Games,Baker and Sons,SKU-00324,163.52,78.69,423,2023-02-07
+325,De-engineered mobile core,Electronics,"Velasquez, Vega and Kerr",SKU-00325,283.45,138.47,16,2023-05-22
+326,Up-sized full-range interface,Apparel,Schwartz PLC,SKU-00326,278.89,176.71,302,2024-11-12
+327,Up-sized cohesive instruction set,Home & Kitchen,"Henry, Roberts and Smith",SKU-00327,102.11,50.24,853,2023-02-28
+328,Pre-emptive value-added time-frame,Home & Kitchen,Baker and Sons,SKU-00328,252.15,166.88,263,2023-09-17
+329,Optimized contextually-based parallelism,Toys & Games,Mitchell and Sons,SKU-00329,411.69,323.84,471,2023-06-28
+330,Implemented fresh-thinking workforce,Home & Kitchen,"Velasquez, Vega and Kerr",SKU-00330,367.72,198.89,737,2025-05-31
+331,Synchronized needs-based orchestration,Sports & Outdoors,"Coleman, Hughes and Davis",SKU-00331,246.72,189.17,657,2024-11-14
+332,Triple-buffered local knowledgebase,Electronics,Brock PLC,SKU-00332,264.35,194.46,967,2023-09-13
+333,Quality-focused uniform support,Toys & Games,Schwartz PLC,SKU-00333,335.77,236.96,140,2023-08-24
+334,Team-oriented exuding core,Toys & Games,"Velasquez, Vega and Kerr",SKU-00334,317.2,135.5,9,2025-01-02
+335,Distributed asymmetric focus group,Home & Kitchen,Mitchell-Turner,SKU-00335,255.34,140.25,653,2024-09-15
+336,Down-sized radical complexity,Books,Mitchell and Sons,SKU-00336,467.28,357.52,16,2023-07-29
+337,Enterprise-wide cohesive moderator,Electronics,Fowler-Day,SKU-00337,268.45,151.55,542,2023-10-26
+338,Exclusive multi-state success,Books,Fowler-Day,SKU-00338,141.0,111.53,514,2023-03-22
+339,Exclusive motivating Graphic Interface,Toys & Games,Hamilton PLC,SKU-00339,350.44,200.53,109,2023-08-15
+340,Up-sized cohesive data-warehouse,Electronics,Mitchell-Turner,SKU-00340,264.57,131.33,539,2024-04-21
+341,Right-sized 4thgeneration info-mediaries,Apparel,Morris PLC,SKU-00341,408.53,207.1,80,2023-06-26
+342,Pre-emptive systemic algorithm,Apparel,"Ortiz, Brown and Clayton",SKU-00342,479.85,280.04,713,2025-05-04
+343,Triple-buffered explicit analyzer,Home & Kitchen,Brock PLC,SKU-00343,153.49,112.24,669,2025-10-16
+344,Cross-platform even-keeled framework,Toys & Games,Morris PLC,SKU-00344,326.7,134.82,388,2023-03-09
+345,Down-sized fault-tolerant Graphical User Interface,Health & Beauty,Fowler-Day,SKU-00345,278.59,117.69,719,2023-07-21
+346,Enterprise-wide optimizing collaboration,Home & Kitchen,Baker and Sons,SKU-00346,45.93,33.9,579,2023-12-09
+347,Multi-layered human-resource intranet,Toys & Games,"Cooper, Cohen and Garrison",SKU-00347,487.05,369.14,235,2025-09-28
+348,Assimilated multi-state secured line,Home & Kitchen,"Henry, Roberts and Smith",SKU-00348,451.13,305.38,486,2025-08-12
+349,Re-contextualized directional orchestration,Apparel,Johnson PLC,SKU-00349,28.05,12.05,920,2023-11-01
+350,Total secondary hardware,Sports & Outdoors,Baker and Sons,SKU-00350,283.94,117.31,16,2023-01-06
+351,Grass-roots intangible complexity,Home & Kitchen,Morris PLC,SKU-00351,295.58,207.17,951,2025-10-27
+352,Seamless system-worthy core,Electronics,"Henry, Roberts and Smith",SKU-00352,153.14,95.8,854,2023-09-15
+353,Stand-alone logistical focus group,Toys & Games,Baker and Sons,SKU-00353,197.63,149.92,393,2023-05-08
+354,Multi-channeled dedicated Graphical User Interface,Toys & Games,Brock PLC,SKU-00354,371.17,265.83,512,2025-03-21
+355,Upgradable discrete database,Books,Schwartz PLC,SKU-00355,487.29,205.38,237,2025-02-02
+356,Organized multimedia project,Toys & Games,Mitchell-Turner,SKU-00356,42.63,27.37,977,2025-05-06
+357,Multi-lateral zero tolerance process improvement,Sports & Outdoors,Fowler-Day,SKU-00357,201.37,142.86,649,2023-03-17
+358,Upgradable reciprocal adapter,Apparel,"Ortiz, Brown and Clayton",SKU-00358,392.86,227.95,364,2024-04-25
+359,Fully-configurable well-modulated alliance,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00359,470.87,269.69,676,2025-05-01
+360,Sharable value-added flexibility,Health & Beauty,"Ortiz, Brown and Clayton",SKU-00360,47.42,30.7,730,2024-04-25
+361,Realigned mission-critical hierarchy,Electronics,"Velasquez, Vega and Kerr",SKU-00361,45.61,21.06,757,2025-04-18
+362,Monitored analyzing migration,Health & Beauty,Fowler-Day,SKU-00362,161.76,71.6,965,2025-11-04
+363,Enterprise-wide grid-enabled workforce,Apparel,Davis-Martinez,SKU-00363,225.14,158.62,135,2024-11-23
+364,De-engineered directional contingency,Electronics,"Coleman, Hughes and Davis",SKU-00364,97.76,56.66,524,2025-11-02
+365,Synergized content-based access,Health & Beauty,"Coleman, Hughes and Davis",SKU-00365,56.13,24.46,95,2022-11-22
+366,Polarized 24hour open architecture,Sports & Outdoors,Morris PLC,SKU-00366,301.03,159.48,12,2024-08-29
+367,Cloned next generation Internet solution,Apparel,"Coleman, Hughes and Davis",SKU-00367,209.84,149.34,926,2025-06-07
+368,Innovative motivating framework,Home & Kitchen,Morris PLC,SKU-00368,288.12,134.79,173,2024-07-17
+369,Synergized logistical forecast,Home & Kitchen,"Velasquez, Vega and Kerr",SKU-00369,138.11,70.07,64,2024-11-07
+370,Up-sized responsive system engine,Home & Kitchen,Mitchell and Sons,SKU-00370,220.16,125.15,801,2024-05-10
+371,Down-sized value-added process improvement,Electronics,Mitchell and Sons,SKU-00371,183.76,142.91,608,2023-04-15
+372,Future-proofed neutral encryption,Sports & Outdoors,"Brown, David and Fowler",SKU-00372,101.8,45.08,6,2024-06-05
+373,Stand-alone homogeneous hierarchy,Health & Beauty,Baker and Sons,SKU-00373,169.45,109.82,450,2023-01-17
+374,Realigned scalable throughput,Apparel,Mitchell-Turner,SKU-00374,218.16,159.13,139,2024-06-27
+375,Re-engineered client-driven secured line,Apparel,"Gallagher, Miller and Cortez",SKU-00375,163.73,127.53,490,2023-06-18
+376,Persevering stable ability,Apparel,Baker and Sons,SKU-00376,92.93,51.98,298,2023-08-09
+377,Managed clear-thinking service-desk,Books,"Henry, Roberts and Smith",SKU-00377,349.0,208.14,800,2025-10-10
+378,Multi-layered scalable secured line,Home & Kitchen,Morris PLC,SKU-00378,166.31,85.17,373,2023-12-29
+379,Self-enabling bi-directional utilization,Electronics,"Coleman, Hughes and Davis",SKU-00379,466.37,223.82,184,2023-05-04
+380,User-friendly static approach,Books,Ramos-Fuller,SKU-00380,384.97,158.13,965,2024-06-07
+381,Multi-channeled user-facing installation,Books,Brock PLC,SKU-00381,108.78,78.22,838,2023-08-17
+382,Streamlined exuding archive,Toys & Games,Mitchell and Sons,SKU-00382,398.85,224.81,142,2023-06-23
+383,Optimized stable installation,Books,"Velasquez, Vega and Kerr",SKU-00383,154.9,77.62,732,2024-10-06
+384,Operative secondary middleware,Health & Beauty,Mitchell-Turner,SKU-00384,395.59,169.94,490,2022-12-24
+385,Stand-alone non-volatile firmware,Sports & Outdoors,Schwartz PLC,SKU-00385,203.4,122.58,556,2023-01-29
+386,User-centric foreground open system,Electronics,"Coleman, Hughes and Davis",SKU-00386,396.41,215.57,608,2024-07-30
+387,Innovative mission-critical alliance,Books,"Ortiz, Brown and Clayton",SKU-00387,457.63,203.07,673,2023-12-04
+388,Exclusive interactive flexibility,Books,"Cooper, Cohen and Garrison",SKU-00388,180.73,119.06,576,2023-08-05
+389,Horizontal zero administration Graphic Interface,Books,Baker and Sons,SKU-00389,340.35,190.54,988,2023-09-18
+390,Universal coherent algorithm,Toys & Games,Johnson PLC,SKU-00390,218.08,88.15,227,2024-09-12
+391,Intuitive encompassing success,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00391,374.69,233.51,226,2023-10-29
+392,Devolved incremental productivity,Health & Beauty,"Henry, Roberts and Smith",SKU-00392,190.19,111.3,707,2023-02-26
+393,Implemented directional framework,Sports & Outdoors,Mitchell and Sons,SKU-00393,79.62,63.62,107,2023-02-13
+394,Total static throughput,Apparel,Davis-Martinez,SKU-00394,210.91,165.5,851,2023-10-02
+395,Polarized asynchronous hardware,Books,Ramos-Fuller,SKU-00395,75.13,39.42,803,2023-07-04
+396,Universal encompassing core,Home & Kitchen,Davis-Martinez,SKU-00396,262.95,141.81,448,2023-05-19
+397,Balanced real-time architecture,Books,"Brown, David and Fowler",SKU-00397,349.9,184.59,45,2024-04-17
+398,Synergistic incremental monitoring,Toys & Games,Baker and Sons,SKU-00398,356.84,145.96,663,2023-12-03
+399,Streamlined 4thgeneration process improvement,Electronics,"Ortiz, Brown and Clayton",SKU-00399,340.18,158.44,528,2024-06-03
+400,Front-line upward-trending archive,Home & Kitchen,Schwartz PLC,SKU-00400,278.2,148.11,981,2023-08-30
+401,Diverse high-level complexity,Health & Beauty,Hamilton PLC,SKU-00401,119.77,67.31,190,2024-07-30
+402,Grass-roots optimizing intranet,Books,Mitchell-Turner,SKU-00402,330.37,184.42,904,2024-01-25
+403,Organic neutral Local Area Network,Home & Kitchen,Fowler-Day,SKU-00403,227.54,130.11,721,2023-02-17
+404,Optional leadingedge projection,Home & Kitchen,Brock PLC,SKU-00404,106.86,74.9,591,2025-07-13
+405,Synchronized homogeneous frame,Electronics,Cabrera-Harris,SKU-00405,400.75,246.36,333,2024-01-25
+406,Diverse motivating installation,Home & Kitchen,Mitchell and Sons,SKU-00406,231.49,116.89,540,2025-07-15
+407,Focused 5thgeneration Local Area Network,Books,Morris PLC,SKU-00407,160.14,88.95,601,2025-09-02
+408,User-centric 4thgeneration knowledgebase,Electronics,Mitchell-Turner,SKU-00408,177.22,130.83,176,2025-02-05
+409,Configurable user-facing analyzer,Toys & Games,Mitchell-Turner,SKU-00409,338.43,243.75,604,2023-03-01
+410,Upgradable 5thgeneration benchmark,Electronics,"Ortiz, Brown and Clayton",SKU-00410,337.69,177.38,312,2023-06-12
+411,Implemented explicit moderator,Electronics,Barrera-Green,SKU-00411,95.61,64.76,397,2022-11-28
+412,Multi-layered hybrid portal,Health & Beauty,Schwartz PLC,SKU-00412,300.23,189.12,190,2025-08-04
+413,Innovative clear-thinking benchmark,Health & Beauty,Hamilton PLC,SKU-00413,319.57,216.47,568,2023-05-07
+414,User-centric multimedia matrices,Home & Kitchen,Baker and Sons,SKU-00414,247.37,112.83,862,2024-03-05
+415,Universal optimizing projection,Health & Beauty,Fowler-Day,SKU-00415,311.61,232.53,496,2022-12-14
+416,Assimilated even-keeled extranet,Home & Kitchen,"Coleman, Hughes and Davis",SKU-00416,101.59,56.24,517,2025-05-09
+417,Cloned actuating protocol,Books,Schwartz PLC,SKU-00417,250.01,168.48,727,2023-02-17
+418,Organic composite standardization,Toys & Games,"Henry, Roberts and Smith",SKU-00418,224.71,104.92,31,2023-09-08
+419,Team-oriented asynchronous superstructure,Toys & Games,Johnson PLC,SKU-00419,381.72,197.29,230,2024-02-12
+420,Re-contextualized context-sensitive algorithm,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00420,147.89,105.34,760,2024-01-27
+421,Re-contextualized radical database,Toys & Games,Davis-Martinez,SKU-00421,384.13,238.12,586,2022-12-09
+422,Universal intangible frame,Electronics,Cabrera-Harris,SKU-00422,137.61,84.94,555,2023-02-09
+423,Fundamental attitude-oriented capacity,Toys & Games,Ramos-Fuller,SKU-00423,379.61,267.25,559,2023-03-07
+424,Centralized logistical analyzer,Home & Kitchen,"Ortiz, Brown and Clayton",SKU-00424,494.94,218.25,304,2025-09-21
+425,Grass-roots systemic database,Toys & Games,Cabrera-Harris,SKU-00425,499.66,289.75,882,2023-03-10
+426,Assimilated grid-enabled hub,Toys & Games,Davis-Martinez,SKU-00426,48.06,35.86,794,2022-11-28
+427,Extended background hierarchy,Toys & Games,"Henry, Roberts and Smith",SKU-00427,122.29,88.57,705,2025-02-02
+428,Profound logistical neural-net,Apparel,Schwartz PLC,SKU-00428,431.22,277.75,169,2024-03-19
+429,Automated human-resource instruction set,Sports & Outdoors,"Gallagher, Miller and Cortez",SKU-00429,73.92,35.68,824,2022-12-07
+430,Visionary intermediate intranet,Electronics,Mitchell-Turner,SKU-00430,287.19,176.02,551,2024-05-22
+431,Stand-alone bifurcated flexibility,Home & Kitchen,"Brown, David and Fowler",SKU-00431,165.21,112.61,586,2023-05-13
+432,Fundamental multi-state emulation,Apparel,Davis-Martinez,SKU-00432,476.44,288.61,138,2024-05-03
+433,Compatible full-range initiative,Toys & Games,Johnson PLC,SKU-00433,393.92,302.34,887,2022-12-16
+434,Re-contextualized grid-enabled capability,Books,"Ortiz, Brown and Clayton",SKU-00434,67.81,50.62,149,2023-12-31
+435,Up-sized clear-thinking knowledgebase,Books,Morris PLC,SKU-00435,164.44,82.06,501,2024-11-19
+436,Business-focused systemic collaboration,Home & Kitchen,Schwartz PLC,SKU-00436,290.83,147.59,384,2023-02-23
+437,Mandatory zero-defect emulation,Health & Beauty,Brock PLC,SKU-00437,42.38,30.42,412,2025-03-01
+438,Networked bifurcated benchmark,Sports & Outdoors,Cabrera-Harris,SKU-00438,376.15,254.99,465,2024-04-17
+439,Decentralized bottom-line artificial intelligence,Health & Beauty,Brock PLC,SKU-00439,167.01,66.97,748,2024-09-18
+440,Enhanced uniform leverage,Health & Beauty,Brock PLC,SKU-00440,319.25,216.74,814,2023-04-12
+441,Function-based demand-driven system engine,Sports & Outdoors,"Gallagher, Miller and Cortez",SKU-00441,201.87,158.92,506,2024-06-10
+442,Seamless content-based firmware,Apparel,"Coleman, Hughes and Davis",SKU-00442,164.82,84.62,591,2023-05-06
+443,Automated hybrid benchmark,Home & Kitchen,Baker and Sons,SKU-00443,285.24,169.47,915,2025-08-15
+444,Operative fresh-thinking access,Books,Ramos-Fuller,SKU-00444,382.32,159.95,16,2025-07-22
+445,Function-based tangible methodology,Electronics,Ramos-Fuller,SKU-00445,465.07,215.42,0,2023-08-31
+446,Intuitive grid-enabled data-warehouse,Health & Beauty,"Velasquez, Vega and Kerr",SKU-00446,105.15,71.02,903,2023-05-21
+447,Total 5thgeneration methodology,Books,Johnson PLC,SKU-00447,154.42,115.78,95,2023-09-20
+448,Proactive asynchronous contingency,Books,Hamilton PLC,SKU-00448,183.42,79.42,53,2023-06-28
+449,Adaptive leadingedge circuit,Health & Beauty,"Ortiz, Brown and Clayton",SKU-00449,314.67,217.25,439,2024-03-28
+450,Upgradable 5thgeneration moratorium,Books,"Gallagher, Miller and Cortez",SKU-00450,50.14,21.97,488,2025-08-16
+451,Integrated fresh-thinking success,Electronics,Ramos-Fuller,SKU-00451,70.69,34.67,9,2023-08-15
+452,Innovative 3rdgeneration neural-net,Electronics,Schwartz PLC,SKU-00452,349.32,253.9,710,2025-01-26
+453,Optional uniform utilization,Home & Kitchen,Brock PLC,SKU-00453,241.46,118.7,748,2023-01-06
+454,User-centric reciprocal interface,Toys & Games,"Brown, David and Fowler",SKU-00454,55.7,29.26,140,2025-09-26
+455,Reverse-engineered clear-thinking functionalities,Health & Beauty,"Velasquez, Vega and Kerr",SKU-00455,387.86,271.99,656,2023-11-06
+456,Front-line incremental alliance,Books,Fowler-Day,SKU-00456,75.71,46.35,624,2023-04-17
+457,Synergistic 24/7 paradigm,Books,"Gallagher, Miller and Cortez",SKU-00457,86.24,46.61,643,2025-08-27
+458,Seamless object-oriented encoding,Books,Ramos-Fuller,SKU-00458,79.93,45.14,880,2023-03-09
+459,Reverse-engineered bandwidth-monitored throughput,Home & Kitchen,Davis-Martinez,SKU-00459,47.91,21.09,603,2025-11-13
+460,Future-proofed zero administration approach,Books,Baker and Sons,SKU-00460,195.1,153.21,810,2022-12-23
+461,Right-sized reciprocal software,Home & Kitchen,"Ortiz, Brown and Clayton",SKU-00461,127.65,83.97,566,2025-01-06
+462,Customizable composite success,Sports & Outdoors,Fowler-Day,SKU-00462,302.0,194.2,868,2025-07-10
+463,Organized tertiary budgetary management,Toys & Games,Barrera-Green,SKU-00463,330.91,172.29,621,2025-05-14
+464,Devolved stable standardization,Sports & Outdoors,"Cooper, Cohen and Garrison",SKU-00464,98.38,54.77,802,2025-08-08
+465,Enterprise-wide multi-state model,Toys & Games,Davis-Martinez,SKU-00465,477.56,285.56,246,2024-10-09
+466,Integrated upward-trending archive,Health & Beauty,Fowler-Day,SKU-00466,320.85,137.45,369,2024-04-18
+467,Triple-buffered optimizing extranet,Apparel,"Henry, Roberts and Smith",SKU-00467,70.33,52.35,430,2025-07-08
+468,Distributed heuristic firmware,Apparel,Mitchell and Sons,SKU-00468,275.45,129.22,977,2025-07-28
+469,Ergonomic exuding strategy,Toys & Games,Fowler-Day,SKU-00469,41.13,26.12,268,2024-04-10
+470,Balanced coherent initiative,Home & Kitchen,Morris PLC,SKU-00470,24.71,10.48,518,2024-09-06
+471,Fundamental secondary conglomeration,Apparel,Schwartz PLC,SKU-00471,316.14,189.82,433,2024-11-27
+472,Fully-configurable national strategy,Books,"Coleman, Hughes and Davis",SKU-00472,204.13,133.95,630,2024-09-17
+473,Self-enabling radical infrastructure,Home & Kitchen,Barrera-Green,SKU-00473,142.35,74.59,943,2024-09-23
+474,Grass-roots neutral architecture,Home & Kitchen,Baker and Sons,SKU-00474,487.29,225.2,400,2023-03-22
+475,Automated full-range architecture,Sports & Outdoors,Brock PLC,SKU-00475,318.98,234.07,317,2023-08-06
+476,Re-contextualized scalable superstructure,Books,"Ortiz, Brown and Clayton",SKU-00476,221.56,173.12,59,2023-06-12
+477,Total maximized circuit,Home & Kitchen,Ramos-Fuller,SKU-00477,47.68,27.36,626,2024-01-09
+478,Ergonomic 3rdgeneration support,Sports & Outdoors,Hamilton PLC,SKU-00478,32.24,21.49,122,2024-09-05
+479,Proactive methodical methodology,Electronics,Hamilton PLC,SKU-00479,355.41,241.89,508,2025-06-30
+480,Programmable discrete protocol,Apparel,Johnson PLC,SKU-00480,263.89,188.2,170,2024-07-04
+481,Persevering logistical middleware,Apparel,Johnson PLC,SKU-00481,67.83,48.33,750,2023-02-25
+482,Advanced modular ability,Electronics,Schwartz PLC,SKU-00482,386.86,159.29,278,2025-01-15
+483,Team-oriented client-driven extranet,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00483,36.62,25.08,642,2023-02-05
+484,Profit-focused reciprocal utilization,Electronics,"Cooper, Cohen and Garrison",SKU-00484,250.59,151.43,511,2023-10-26
+485,Sharable heuristic artificial intelligence,Toys & Games,Johnson PLC,SKU-00485,285.61,156.25,791,2025-10-28
+486,Face-to-face content-based synergy,Electronics,Davis-Martinez,SKU-00486,447.66,299.77,233,2023-04-13
+487,Multi-channeled logistical orchestration,Books,Fowler-Day,SKU-00487,256.87,107.27,250,2023-08-18
+488,Centralized next generation contingency,Electronics,"Velasquez, Vega and Kerr",SKU-00488,238.52,131.95,183,2025-09-22
+489,Fully-configurable intermediate info-mediaries,Toys & Games,Schwartz PLC,SKU-00489,22.5,16.23,229,2023-03-24
+490,Triple-buffered human-resource project,Apparel,Baker and Sons,SKU-00490,127.89,98.01,277,2023-07-26
+491,Ameliorated attitude-oriented knowledge user,Toys & Games,Barrera-Green,SKU-00491,43.55,23.91,689,2023-07-06
+492,Reverse-engineered fresh-thinking superstructure,Electronics,"Cooper, Cohen and Garrison",SKU-00492,93.78,67.68,976,2023-05-14
+493,Synergistic client-driven implementation,Health & Beauty,"Brown, David and Fowler",SKU-00493,39.12,22.93,792,2025-08-11
+494,Open-architected analyzing software,Toys & Games,Ramos-Fuller,SKU-00494,158.8,69.01,8,2025-04-05
+495,Operative optimizing interface,Apparel,"Brown, David and Fowler",SKU-00495,104.33,65.26,757,2023-05-04
+496,Cross-group 3rdgeneration neural-net,Sports & Outdoors,Mitchell and Sons,SKU-00496,125.08,68.46,791,2024-01-08
+497,Adaptive systematic encoding,Toys & Games,"Ortiz, Brown and Clayton",SKU-00497,101.73,77.33,154,2025-07-11
+498,Assimilated value-added open system,Electronics,"Coleman, Hughes and Davis",SKU-00498,466.54,191.08,354,2023-08-21
+499,Switchable solution-oriented secured line,Books,Baker and Sons,SKU-00499,420.59,315.81,1,2024-11-24
+500,Object-based mission-critical data-warehouse,Toys & Games,"Brown, David and Fowler",SKU-00500,330.37,244.34,106,2024-08-15
+501,Ameliorated zero-defect moderator,Home & Kitchen,Mitchell and Sons,SKU-00501,267.26,132.37,984,2024-08-23
+502,Focused demand-driven data-warehouse,Electronics,Johnson PLC,SKU-00502,486.42,222.27,95,2025-05-07
+503,Right-sized secondary hardware,Electronics,Barrera-Green,SKU-00503,461.03,349.88,422,2023-01-21
+504,Object-based hybrid standardization,Books,Brock PLC,SKU-00504,448.31,261.54,594,2024-08-03
+505,Stand-alone modular interface,Electronics,Morris PLC,SKU-00505,255.19,167.12,76,2022-11-27
+506,Universal global help-desk,Sports & Outdoors,"Velasquez, Vega and Kerr",SKU-00506,286.07,164.2,242,2022-12-14
+507,Progressive secondary algorithm,Apparel,Morris PLC,SKU-00507,134.19,70.58,717,2025-08-17
+508,Automated global application,Toys & Games,Johnson PLC,SKU-00508,369.0,194.55,239,2025-10-03
+509,Robust actuating neural-net,Electronics,"Henry, Roberts and Smith",SKU-00509,472.06,214.53,111,2023-10-18
+510,Balanced intangible product,Home & Kitchen,Baker and Sons,SKU-00510,57.3,33.22,416,2025-07-07
+511,Enterprise-wide high-level application,Electronics,"Gallagher, Miller and Cortez",SKU-00511,270.28,212.4,462,2025-10-23
+512,Triple-buffered optimizing task-force,Apparel,Brock PLC,SKU-00512,234.36,173.66,161,2025-01-06
+513,Automated grid-enabled hub,Toys & Games,Mitchell-Turner,SKU-00513,344.6,251.75,41,2024-09-13
+514,Implemented fault-tolerant website,Home & Kitchen,Brock PLC,SKU-00514,418.78,222.42,728,2023-03-14
+515,Reduced object-oriented synergy,Home & Kitchen,"Cooper, Cohen and Garrison",SKU-00515,484.36,270.51,693,2024-02-04
+516,Vision-oriented asymmetric capacity,Apparel,Fowler-Day,SKU-00516,133.78,106.53,974,2023-12-24
+517,Extended intangible architecture,Health & Beauty,"Coleman, Hughes and Davis",SKU-00517,428.03,266.4,255,2024-07-15
+518,Business-focused holistic access,Electronics,"Velasquez, Vega and Kerr",SKU-00518,233.71,168.64,124,2025-11-04
+519,Enterprise-wide radical productivity,Electronics,"Ortiz, Brown and Clayton",SKU-00519,35.53,25.31,133,2025-05-09
+520,Seamless 6thgeneration intranet,Home & Kitchen,Brock PLC,SKU-00520,412.72,226.54,596,2024-07-25
+521,Cross-group optimal capability,Sports & Outdoors,Fowler-Day,SKU-00521,133.12,96.53,66,2025-07-20
+522,Profit-focused bifurcated support,Home & Kitchen,"Velasquez, Vega and Kerr",SKU-00522,451.74,260.82,94,2024-03-10
+523,Seamless national database,Toys & Games,"Cooper, Cohen and Garrison",SKU-00523,415.53,221.32,964,2024-08-16
+524,Proactive multi-state firmware,Health & Beauty,Schwartz PLC,SKU-00524,30.07,23.14,841,2025-06-18
+525,Advanced disintermediate challenge,Books,Schwartz PLC,SKU-00525,200.52,82.57,176,2023-04-08
+526,Organized leadingedge focus group,Apparel,Johnson PLC,SKU-00526,111.28,52.84,456,2025-04-07
+527,Total background capability,Home & Kitchen,"Ortiz, Brown and Clayton",SKU-00527,22.15,14.35,662,2024-11-25
+528,Optional leadingedge groupware,Apparel,Mitchell and Sons,SKU-00528,251.95,189.75,62,2024-06-12
+529,Ameliorated system-worthy secured line,Electronics,"Gallagher, Miller and Cortez",SKU-00529,143.49,65.27,658,2023-01-16
+530,Grass-roots content-based methodology,Toys & Games,"Coleman, Hughes and Davis",SKU-00530,265.28,173.04,813,2024-04-23
+531,Stand-alone dedicated support,Electronics,Cabrera-Harris,SKU-00531,494.75,352.64,491,2023-04-26
+532,Managed local help-desk,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00532,391.81,210.64,514,2025-08-11
+533,Synchronized clear-thinking conglomeration,Apparel,Baker and Sons,SKU-00533,197.25,93.09,611,2025-07-05
+534,Inverse actuating structure,Home & Kitchen,Johnson PLC,SKU-00534,19.51,14.13,59,2025-02-27
+535,Fully-configurable next generation infrastructure,Toys & Games,"Henry, Roberts and Smith",SKU-00535,495.81,303.32,238,2023-01-08
+536,Exclusive optimal approach,Home & Kitchen,Johnson PLC,SKU-00536,54.57,36.17,546,2023-10-10
+537,Optimized modular frame,Toys & Games,"Ortiz, Brown and Clayton",SKU-00537,396.66,275.61,589,2025-03-25
+538,Optimized leadingedge hierarchy,Toys & Games,Hamilton PLC,SKU-00538,491.42,272.92,180,2024-07-20
+539,Phased holistic database,Home & Kitchen,Cabrera-Harris,SKU-00539,298.3,215.52,935,2024-04-01
+540,Compatible foreground encryption,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00540,18.96,12.9,577,2023-12-20
+541,Switchable tangible methodology,Home & Kitchen,Mitchell and Sons,SKU-00541,283.74,134.86,555,2024-01-29
+542,Exclusive radical challenge,Apparel,"Cooper, Cohen and Garrison",SKU-00542,91.9,38.16,238,2024-12-24
+543,Adaptive multi-state benchmark,Sports & Outdoors,Fowler-Day,SKU-00543,113.31,69.18,339,2023-08-06
+544,Centralized logistical moratorium,Sports & Outdoors,Hamilton PLC,SKU-00544,104.72,47.35,940,2023-01-22
+545,Virtual transitional algorithm,Toys & Games,Fowler-Day,SKU-00545,422.92,223.91,151,2023-10-02
+546,Proactive needs-based array,Sports & Outdoors,Davis-Martinez,SKU-00546,353.82,161.58,866,2022-11-17
+547,Customizable 24hour encryption,Sports & Outdoors,Cabrera-Harris,SKU-00547,431.03,338.02,721,2025-07-25
+548,Digitized 24hour middleware,Books,"Brown, David and Fowler",SKU-00548,200.82,88.44,330,2023-07-08
+549,Front-line eco-centric attitude,Home & Kitchen,Schwartz PLC,SKU-00549,488.05,338.19,810,2024-08-04
+550,Advanced radical software,Books,Hamilton PLC,SKU-00550,480.53,316.99,724,2025-06-25
+551,Assimilated object-oriented Local Area Network,Sports & Outdoors,Cabrera-Harris,SKU-00551,348.31,268.73,228,2024-05-06
+552,Pre-emptive tertiary model,Books,"Brown, David and Fowler",SKU-00552,296.53,139.41,751,2025-02-21
+553,Multi-channeled bifurcated initiative,Books,Fowler-Day,SKU-00553,150.79,71.03,971,2024-07-25
+554,Configurable non-volatile adapter,Books,"Henry, Roberts and Smith",SKU-00554,474.61,264.19,33,2024-12-27
+555,Object-based empowering function,Home & Kitchen,Mitchell-Turner,SKU-00555,303.18,232.97,226,2024-01-01
+556,Right-sized actuating focus group,Books,"Velasquez, Vega and Kerr",SKU-00556,284.95,220.74,339,2023-10-27
+557,Reverse-engineered executive synergy,Books,Baker and Sons,SKU-00557,43.51,23.44,171,2025-09-21
+558,Triple-buffered impactful structure,Books,Baker and Sons,SKU-00558,443.23,193.02,457,2023-03-10
+559,Optional secondary circuit,Electronics,Brock PLC,SKU-00559,136.28,68.11,358,2023-05-27
+560,Team-oriented composite Local Area Network,Apparel,"Cooper, Cohen and Garrison",SKU-00560,394.57,271.53,395,2025-10-20
+561,Organic clear-thinking Internet solution,Health & Beauty,Schwartz PLC,SKU-00561,367.63,289.56,504,2023-04-25
+562,Ameliorated global flexibility,Health & Beauty,Mitchell and Sons,SKU-00562,178.86,98.4,807,2025-08-16
+563,Automated composite success,Toys & Games,"Ortiz, Brown and Clayton",SKU-00563,291.14,204.76,166,2024-06-28
+564,Ameliorated value-added contingency,Health & Beauty,"Brown, David and Fowler",SKU-00564,41.49,30.63,20,2025-02-03
+565,Streamlined exuding utilization,Apparel,Baker and Sons,SKU-00565,134.26,59.33,174,2024-08-15
+566,Multi-channeled uniform groupware,Health & Beauty,Brock PLC,SKU-00566,84.65,36.4,346,2025-05-10
+567,Digitized background strategy,Sports & Outdoors,Fowler-Day,SKU-00567,492.71,373.12,441,2025-02-14
+568,Reverse-engineered foreground info-mediaries,Books,Hamilton PLC,SKU-00568,86.67,65.51,54,2025-03-03
+569,Profit-focused impactful extranet,Electronics,Schwartz PLC,SKU-00569,168.89,133.38,713,2025-07-11
+570,Re-engineered didactic core,Sports & Outdoors,Johnson PLC,SKU-00570,362.41,250.78,676,2025-09-17
+571,Reduced local focus group,Apparel,Morris PLC,SKU-00571,152.21,66.72,585,2024-05-14
+572,Ergonomic real-time architecture,Sports & Outdoors,Cabrera-Harris,SKU-00572,420.73,194.14,3,2025-02-17
+573,Balanced context-sensitive emulation,Health & Beauty,Mitchell-Turner,SKU-00573,48.38,35.3,491,2025-03-03
+574,Implemented next generation intranet,Home & Kitchen,"Brown, David and Fowler",SKU-00574,53.01,25.59,1000,2024-08-12
+575,Configurable zero tolerance productivity,Electronics,Morris PLC,SKU-00575,239.42,106.83,482,2024-02-28
+576,Innovative eco-centric definition,Health & Beauty,"Coleman, Hughes and Davis",SKU-00576,447.96,226.67,396,2023-10-28
+577,Synchronized systematic throughput,Home & Kitchen,Hamilton PLC,SKU-00577,188.66,104.25,456,2024-09-29
+578,Focused homogeneous throughput,Electronics,"Ortiz, Brown and Clayton",SKU-00578,135.33,79.31,857,2025-08-10
+579,Stand-alone 5thgeneration process improvement,Apparel,Davis-Martinez,SKU-00579,284.3,130.91,87,2023-02-18
+580,Profound full-range intranet,Books,"Henry, Roberts and Smith",SKU-00580,175.18,108.01,232,2024-04-24
+581,Face-to-face zero-defect support,Sports & Outdoors,Barrera-Green,SKU-00581,35.19,19.52,428,2024-11-09
+582,Robust fault-tolerant intranet,Sports & Outdoors,"Henry, Roberts and Smith",SKU-00582,345.1,267.3,902,2024-07-15
+583,Versatile didactic benchmark,Home & Kitchen,"Cooper, Cohen and Garrison",SKU-00583,240.75,103.9,514,2025-02-12
+584,Universal didactic projection,Sports & Outdoors,Mitchell-Turner,SKU-00584,450.73,324.61,150,2023-12-15
+585,Enterprise-wide tertiary orchestration,Electronics,Hamilton PLC,SKU-00585,474.88,275.25,995,2022-12-08
+586,Advanced cohesive forecast,Home & Kitchen,Schwartz PLC,SKU-00586,405.19,182.53,80,2025-05-24
+587,Down-sized secondary matrix,Books,"Velasquez, Vega and Kerr",SKU-00587,220.52,176.18,854,2025-02-25
+588,Mandatory cohesive customer loyalty,Sports & Outdoors,Brock PLC,SKU-00588,132.65,101.39,89,2024-02-15
+589,Open-architected uniform protocol,Health & Beauty,Johnson PLC,SKU-00589,280.4,174.08,532,2023-03-15
+590,Intuitive asymmetric utilization,Health & Beauty,Mitchell-Turner,SKU-00590,459.0,185.87,601,2023-07-20
+591,Customizable web-enabled interface,Sports & Outdoors,"Velasquez, Vega and Kerr",SKU-00591,391.93,174.41,151,2024-12-17
+592,Open-architected user-facing ability,Sports & Outdoors,Davis-Martinez,SKU-00592,296.03,208.21,947,2025-02-03
+593,Robust incremental analyzer,Electronics,"Brown, David and Fowler",SKU-00593,283.53,124.87,888,2023-03-31
+594,Ameliorated homogeneous interface,Sports & Outdoors,Johnson PLC,SKU-00594,440.67,331.01,392,2024-03-20
+595,Profit-focused regional knowledge user,Books,"Cooper, Cohen and Garrison",SKU-00595,245.36,157.91,176,2025-01-01
+596,Synergistic cohesive strategy,Apparel,Morris PLC,SKU-00596,204.47,132.35,39,2024-03-10
+597,De-engineered user-facing hub,Health & Beauty,"Ortiz, Brown and Clayton",SKU-00597,445.34,237.19,50,2024-08-29
+598,Multi-lateral neutral capacity,Books,Cabrera-Harris,SKU-00598,240.23,121.9,20,2025-04-27
+599,Extended next generation groupware,Apparel,Johnson PLC,SKU-00599,409.61,213.5,863,2023-12-08
+600,Total scalable analyzer,Health & Beauty,"Ortiz, Brown and Clayton",SKU-00600,429.83,289.68,137,2025-07-16
